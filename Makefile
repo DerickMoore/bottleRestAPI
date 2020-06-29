@@ -1,8 +1,8 @@
-init:
-	pip install -r requirements.txt
+#init:
+#	pip install -r requirements.txt
 
-test:
-	py.test tests
+#test:
+#	py.test tests
 
 runAPI:
 	/usr/bin/python3 /home/derick/repos/bottleRestAPI/sample/sample.py
